@@ -2,8 +2,6 @@
 
 2D architectural floor plans drafted in AutoCAD.
 
-![Floor Plan 1](Floor%20Plan%201/download%20%282%29.jpg)
-
 ## Contents
 
 | Folder | Description |
