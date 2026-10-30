@@ -19,6 +19,10 @@
 
 ![Floor Plan 2](Floor%20Plan%202/floorplan2.jpg)
 
+## Units
+
+All drawings use millimeters (mm).
+
 ## Repository Structure
 
 ```
@@ -32,22 +36,9 @@ Floor-Plan-2d/
 └── README.md
 ```
 
-## Opening the Drawings
-
-1. Download or clone the repository.
-2. Open the folder of the plan you want.
-3. Open the `.dwg` file in AutoCAD, DWG TrueView, or any DWG-compatible viewer.
-4. Open the `.jpg` image for a quick preview without CAD software.
-
 ## Requirements
 
-- AutoCAD 2018 or later, or DWG TrueView (free from Autodesk)
-
-## Clone
-
-```
-git clone https://github.com/LouiseCatala/Floor-Plan-2d.git
-```
+- AutoCAD 2023 or later, or DWG TrueView (free from Autodesk)
 
 ## Author
 
