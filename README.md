@@ -2,7 +2,7 @@
 
 2D architectural floor plans drafted in AutoCAD.
 
-![Floor Plan 1](Floor%20Plan%201/floorplan.jpg)
+![Floor Plan 1](Floor%20Plan%201/download%20%282%29.jpg)
 
 ## Contents
 
@@ -15,22 +15,22 @@
 
 ### Floor Plan 1
 
-![Floor Plan 1](Floor%20Plan%201/floorplan.jpg)
+![Floor Plan 1](Floor%20Plan%201/download%20%282%29.jpg)
 
 ### Floor Plan 2
 
-![Floor Plan 2](Floor%20Plan%202/floorplan.jpg)
+![Floor Plan 2](Floor%20Plan%202/floorplan2.jpg)
 
 ## Repository Structure
 
 ```
 Floor-Plan-2d/
 ├── Floor Plan 1/
-│   ├── FLOOR_PLAN_1.dwg
-│   └── floorplan.jpg
+│   ├── download (2).jpg
+│   └── *.dwg
 ├── Floor Plan 2/
-│   ├── FLOOR_PLAN_2.dwg
-│   └── floorplan.jpg
+│   ├── floorplan2.jpg
+│   └── *.dwg
 └── README.md
 ```
 
@@ -39,7 +39,7 @@ Floor-Plan-2d/
 1. Download or clone the repository.
 2. Open the folder of the plan you want.
 3. Open the `.dwg` file in AutoCAD, DWG TrueView, or any DWG-compatible viewer.
-4. Open `floorplan.jpg` for a quick preview without CAD software.
+4. Open the `.jpg` image for a quick preview without CAD software.
 
 ## Requirements
 
