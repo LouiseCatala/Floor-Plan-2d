@@ -1,43 +1,57 @@
-# Floor Plan 20
+# Floor-Plan-2d
 
-![Floor Plan](floorplan.jpg)
+2D architectural floor plans drafted in AutoCAD.
 
-## Overview
+![Floor Plan 1](Floor%20Plan%201/floorplan.jpg)
 
-This repository contains the architectural floor plan for the project. The original drawing is provided as an AutoCAD DWG file, and a rendered preview is included as `floorplan.jpg`.
+## Contents
 
-## Files
-
-| File | Description |
+| Folder | Description |
 | --- | --- |
-| `FLOOR_PLAN__20.dwg` | Original AutoCAD drawing |
-| `floorplan.jpg` | Image preview of the floor plan |
-| `README.md` | Project documentation |
+| `Floor Plan 1` | First floor plan drawing |
+| `Floor Plan 2` | Second floor plan drawing |
 
-## Viewing the Floor Plan
+## Previews
 
-1. Open `floorplan.jpg` for a quick preview.
-2. For full detail and editing, open `FLOOR_PLAN__20.dwg` in AutoCAD, DWG TrueView, or any DWG-compatible viewer.
+### Floor Plan 1
 
-## Requirements
+![Floor Plan 1](Floor%20Plan%201/floorplan.jpg)
 
-- AutoCAD 2018 or later (recommended)
-- DWG TrueView (free viewer from Autodesk)
+### Floor Plan 2
 
-## Project Structure
+![Floor Plan 2](Floor%20Plan%202/floorplan.jpg)
+
+## Repository Structure
 
 ```
-.
-├── FLOOR_PLAN__20.dwg
-├── floorplan.jpg
+Floor-Plan-2d/
+├── Floor Plan 1/
+│   ├── FLOOR_PLAN_1.dwg
+│   └── floorplan.jpg
+├── Floor Plan 2/
+│   ├── FLOOR_PLAN_2.dwg
+│   └── floorplan.jpg
 └── README.md
 ```
 
-## Notes
+## Opening the Drawings
 
-- Dimensions and layout are subject to revision.
-- Make sure `floorplan.jpg` sits in the same folder as `README.md` so the image displays correctly.
+1. Download or clone the repository.
+2. Open the folder of the plan you want.
+3. Open the `.dwg` file in AutoCAD, DWG TrueView, or any DWG-compatible viewer.
+4. Open `floorplan.jpg` for a quick preview without CAD software.
+
+## Requirements
+
+- AutoCAD 2018 or later, or DWG TrueView (free from Autodesk)
+
+## Clone
+
+```
+git clone https://github.com/LouiseCatala/Floor-Plan-2d.git
+```
 
 ## Author
 
 Orland Louise Catala
+GitHub: [@LouiseCatala](https://github.com/LouiseCatala)
